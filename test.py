@@ -1,14 +1,3 @@
-# print(1%100)
-# print(2%100)
-# print(100%100)
-# print(101%100)
-# import torch
-#
-# output = torch.tensor([[0.1, 0.2],
-#                       [0.3, 0.4]])
-#
-# print(output.argmax(1))
-
 import torch
 import torchvision.transforms
 from PIL import Image
